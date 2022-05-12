@@ -41,7 +41,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Development Overview
 
-Front-End Development: **Reactjs** 
+Front-End Development: **Reactjs, THREEjs, AR** 
 
 Back-end Development: **Google Firebase**
 
