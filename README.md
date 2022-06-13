@@ -55,4 +55,11 @@ Back-end Development: **Google Firebase**
 
 ![2022-05-12 (1)](https://user-images.githubusercontent.com/60513881/168177967-cdab4e0e-df8a-4458-a071-13d2bb85173d.png)
 
+## Authors
 
++ [Dhruval Raval](https://www.linkedin.com/in/dhruval-raval/)
+  - Fullstack Lead Developer, AR
++ [Deep Raval](https://github.com/deep-18)
+  - Fullstack Lead Developer
++ [Het Kadia](https://github.com/HetK12)
+  - Frontend Developer 
